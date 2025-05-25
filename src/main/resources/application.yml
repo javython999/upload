@@ -4,3 +4,6 @@ logging:
       apache:
         coyote:
           http11: trace
+
+file:
+  dir: W:/DownLoad/study/
